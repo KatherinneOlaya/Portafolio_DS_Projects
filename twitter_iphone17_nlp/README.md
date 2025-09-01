@@ -1,4 +1,4 @@
-# 📊 Real-Time Sentiment Analysis of iPhone 17 Tweets
+# 📊 Real-Time Sentiment Analysis of iPhone 17 Tweetss
 
 This project performs **real-time sentiment analysis** on tweets related to the iPhone 17 and Apple events, using **Natural Language Processing (NLP)** and **Transformer models**.
 
